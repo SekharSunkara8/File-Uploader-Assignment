@@ -5,7 +5,7 @@
 ## Installation
 1. Clone the repository:
     ```bash
-       git clone Repository
+       git clone https://github.com/SekharSunkara8/File-Uploader-Assignment.git
      ```
 2. Navigate to the project directory:
       ```
